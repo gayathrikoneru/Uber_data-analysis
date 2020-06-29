@@ -3,7 +3,7 @@ The real time data regarding the information of rides taken up by the popular ri
 This data is analysed using relevant Machine Learning algorithms to give some useful insights and visualize the hidden patterns in the data.
 
 ## Visualization
-Visualization of the available data is performed using "visualization.ipynb" to bring out the patterns.
+Visualization of the available data is performed using "visualization.ipynb" to bring out the hidden patterns.
 
 ## Frequent Itemsets Mining
 Frequent patterns related to the rides and their locations are mined using "Frequent Pattern Growth" algorithm, association rules are generated and interesting rules are mined out.
